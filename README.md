@@ -2,7 +2,7 @@
 GAN(Generative Adversarial Nets) 모델을 활용한 새로운 Font Generation 프로젝트
    - 팀원: 박주현, 윤지영, 이종호
    - 프로젝트 기간: 2023.11.13. ~ 2023.11.27.
-   - 개발환경:
+   - 개발환경: 
      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
      <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
      <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
